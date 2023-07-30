@@ -1,0 +1,4 @@
+/HoneyBot/sensitive.py
+*.log
+*.log.*
+*.pyc

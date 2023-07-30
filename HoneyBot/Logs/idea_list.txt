@@ -1,0 +1,11 @@
+TropicalMango#7405 from The Valley: archiving videos
+ppolca#7161 from The Valley: sound effects
+KermitS#0363 from The Valley: user-voted pins
+KermitS#0363 from The Valley: voice chat voice recognition commands (like alfred our beloved)
+KermitS#0363 from The Valley: freemancheck all should just ignore/not list anybody with 0 freeman points
+TropicalMango#7405 from The Valley: auto birthday messages
+TropicalMango#7405 from League of Monkeys: add timer?
+quil#0001 from The Snowy Valley: if someone responds with sass after a honeybot message, detect it and say something snarky back
+TropicalMango#7405 from The Snowy Valley: server leave notifications
+TropicalMango#7405 from The Snowy Valley: display team differential on team makers
+TropicalMango#7405 from The Snowy Valley: fix the inconsistent location of discord_events.log
